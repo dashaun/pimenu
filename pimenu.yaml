@@ -9,19 +9,20 @@
     name: "Lizzy"
     label: "Lizzy"
     color: "#603cba"
-    icon: "fish"
+    icon: "music.select"
     items: 
       - 
-        name : "insurance"
-        label: "Insurance"
+        name : "Music"
+        label: "Music"
         color: "#603cba"
-        icon : "shield"
+        icon : "music"
+  -
     name: "Carter"
     label: "Carter"
     color: "#9f00a7"
-    icon: "bunny"
+    icon: "video.gallery"
     items:
       -
-        name : "Video1"
-        label: "Video1"
-        icon : "shield"
+        name : "Video"
+        label: "Video"
+        icon : "video"
